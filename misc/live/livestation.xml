@@ -1,0 +1,84 @@
+<item>
+<title>BBC News</title>
+<link>http://akamedia2.lsops.net/live/bbcworld1_en.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/10/medium_bbcworld_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CSPAN 1</title>
+<link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CSPAN 2</title>
+<link>rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CSPAN 3</title>
+<link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/30/medium_cspan_en.jpg</thumbnail>
+</item>
+
+<item>
+<title>CNN News</title>
+<link>http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/84/medium_cnn.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Euronews English</title>
+<link>http://akamedia10.lsops.net/live/smil:euronews_en.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/1/medium_euronews.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Euronews Arabic</title>
+<link>http://akamedia10.lsops.net/live/smil:euronews_ar.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/1/medium_euronews.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>Al Jazeera English</title>
+<link>rtmp://hd2.lsops.net/live playpath=aljazeer_en_372 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" pageURL="http://www.livestation.com/channels/3-al-jazeera-english-english</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/3/medium_aljazeer_en.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Press TV</title>
+<link>http://presstv_hls-lh.akamaihd.net/i/presstv_en@104592/master.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/52/medium_press_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>RT Arabic</title>
+<link>http://media4.lsops.net/live/smil:rustoday_ar.smil/playlist.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/18/medium_rt.jpg</thumbnail>
+</item>
+
+<item>
+<title>RT English</title>
+<link>http://media4.lsops.net/live/smil:rustoday_en.smil/playlist.m3u8</link>
+<thumbnail>http://beta.cdn.livestation.com/uploads/channel/ident/18/medium_rt.jpg</thumbnail>
+</item>
+
+<item>
+<title>Alalam</title>
+<link>http://alalam_hls-lh.akamaihd.net/i/alalam_ar@103398/master.m3u8</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/Alalam.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Mayadeen</title>
+<link>http://hd2.lsops.net/live/almayade_ar_hls.smil/playlist.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/159/medium_image.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC Arabic</title>
+<link>http://media10.lsops.net/live/smil:bbcarab_ar.smil/playlist.m3u8</link>
+<thumbnail>http://static.ls-cdn.com/uploads/channel/ident/34/medium_bbcarab_en.jpg</thumbnail>
+</item>
+

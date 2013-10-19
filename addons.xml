@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.newawesomedl"
+       name="New AwesomeDL "
+       version="2.0.7"
+       provider-name="xbmctalk.com">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver" version="1.0.3"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler" version="1.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">New AWEsomeDL</summary>
+    <description lang="en">AWEsomeDL has been cleaned, all instances of tracking code and advertising are now gone. New AWEsomeDL. Credits go to Jas0npc as the original author, Vin, Mikey1234,Eldorado, UmOuch,MScreations, and [B]ANILKUJ[/B] for creating this addon.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.newiwatchonline"
+       name="New I Watch Online"
+       version="0.2.0"
+       provider-name="xbmctalk.com">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+	<import addon="script.module.t0mm0.common" version="0.0.1"/>
+	<import addon="script.module.urlresolver" version="0.0.1"/>
+	<import addon="script.module.metahandler" version="1.0.2"/>
+	<import addon="script.common.plugin.cache" version="0.9.1"/>
+	<import addon="script.module.universal" version="0.0.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">New iwatchonline.to</summary>
+    <description lang="en">iWatchonline has been cleaned, all instances of tracking code and advertising are now gone. Watch movies and tv-shows online for free. (Credits go to the-one for the original source, azad720 for original icons and fanart)</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.newmovie25"
+       name="New Mash Up"
+       version="1.4.0"
+       provider-name="xbmctalk.com">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler"  version="1.0.2"/>
+		<import addon="script.module.universal" version="0.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+		<import addon="script.module.playbackengine" version="1.0.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Browse Movie25 and many more sources</summary>
+    <description lang="en">MashUp has been cleaned, all instances of tracking code and advertising are now gone. Browse and play a wide selection of movies from the sites like Movie25.com, watchfreeseres, seriesgate, rlsmx, newmyvidelinks etc. Credits go to original authors Mash2k3 and Kuba</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.newtubeplus"
+       name="New TubePlus"
+       version="1.0.7"
+       provider-name="xbmchub.com">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver" version="1.0.3"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler" version="1.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">New TubePlus</summary>
+    <description lang="en">TubePlus has been cleaned, all instances of tracking code and advertising are now gone. New TubePlus. Credits go to Jas0npc, Vin, Mikey1234,Eldorado, UmOuch, MScreations, and specially to [B]ANILKUJ[/B] for creating this addon.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>

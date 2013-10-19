@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.newtubeplus"
+       name="New TubePlus"
+       version="1.0.7"
+       provider-name="xbmchub.com">
+  <requires>
+        <import addon="xbmc.python" version="2.0"/>
+        <import addon="script.module.urlresolver" version="1.0.3"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler" version="1.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">New TubePlus</summary>
+    <description lang="en">TubePlus has been cleaned, all instances of tracking code and advertising are now gone. New TubePlus. Credits go to Jas0npc, Vin, Mikey1234,Eldorado, UmOuch, MScreations, and specially to [B]ANILKUJ[/B] for creating this addon.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

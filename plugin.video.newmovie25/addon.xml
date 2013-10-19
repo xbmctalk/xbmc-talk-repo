@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.newmovie25"
+       name="New Mash Up"
+       version="1.4.0"
+       provider-name="xbmctalk.com">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+		<import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+		<import addon="script.module.metahandler"  version="1.0.2"/>
+		<import addon="script.module.universal" version="0.0.1"/>
+		<import addon="script.module.beautifulsoup"/>
+		<import addon="script.module.playbackengine" version="1.0.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Browse Movie25 and many more sources</summary>
+    <description lang="en">MashUp has been cleaned, all instances of tracking code and advertising are now gone. Browse and play a wide selection of movies from the sites like Movie25.com, watchfreeseres, seriesgate, rlsmx, newmyvidelinks etc. Credits go to original authors Mash2k3 and Kuba</description>
+    <platform>all</platform>
+  </extension>
+</addon>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.newiwatchonline"
-       name="New I Watch Online"
+       name="I Watch Online"
        version="0.2.1"
-       provider-name="xbmctalk.net">
+       provider-name="xbmctalk.us">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
 	<import addon="script.module.t0mm0.common" version="0.0.1"/>
@@ -16,7 +16,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">New iwatchonline.to</summary>
+    <summary lang="en">iwatchonline.to</summary>
     <description lang="en">iWatchonline has been cleaned, all instances of tracking code and advertising are now gone. Watch movies and tv-shows online for free. (Credits go to the-one for the original source, azad720 for original icons and fanart)</description>	
     <platform>all</platform>
   </extension>

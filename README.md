@@ -1,4 +1,9 @@
 xbmc-talk-repo
 ==============
 
-XBMCTALK.NET Add-on Repository
+XBMCTALK.US Add-on Repository
+
+* Open Source Code
+* No More Advertising
+* No More Tracking
+* Power to the People

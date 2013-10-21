@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.newawesomedl"
-       name="New AwesomeDL "
-       version="2.0.8"
-       provider-name="xbmctalk.net">
+       name="AWEsomeDL"
+       version="2.0.9"
+       provider-name="xbmctalk.us">
   <requires>
         <import addon="xbmc.python" version="2.0"/>
         <import addon="script.module.urlresolver" version="1.0.3"/>
@@ -15,7 +15,7 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">New AWEsomeDL</summary>
+    <summary lang="en">AWEsomeDL</summary>
     <description lang="en">AWEsomeDL has been cleaned, all instances of tracking code and advertising are now gone. New AWEsomeDL. Credits go to Jas0npc as the original author, Vin, Mikey1234,Eldorado, UmOuch,MScreations, and [B]ANILKUJ[/B] for creating this addon.</description>
     <platform>all</platform>
   </extension>

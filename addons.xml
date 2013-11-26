@@ -47,7 +47,7 @@
 
 <addon id="plugin.video.newmovie25"
        name="MashUp"
-       version="1.4.2"
+       version="1.4.3"
        provider-name="xbmctalk.us">
     <requires>
         <import addon="xbmc.python" version="2.0"/>
